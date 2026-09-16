@@ -2,6 +2,8 @@
 
 Third-year student of Marketing & Visual Communications at Baldwin Wallace University. Experienced in small-group facilitation, public speaking, writing, photography, and social media management. Skilled with graphic design tools such as Adobe InDesign, Adobe Illustrator, & Canva.
 
+* For Resume, Click [Here](https://rawcdn.githack.com/jdamato2424/jdamato2424/25a7d358807a3205cde71de1b90397196653ea8d/Jonathan%20D%E2%80%99Amato.pdf)
+
 ---
 
 ### 🎓 About Me

@@ -6,7 +6,7 @@ Third-year student of Marketing & Visual Communications at Baldwin Wallace Unive
 
 ### 🎓 About Me
 
-* 🏫 **Education:** Currently pursuing a Bechelor's in Marketing with a Minor in Visual Communications at Baldwin Wallace University (Expected Graduation: [2028])
+* 🏫 **Education:** Currently pursuing a Bechelor's in Marketing with a Minor in Visual Communications at Baldwin Wallace University (Expected Graduation: 2028
 * 🔭 **Current Focus:** Building skills and experience in Marketing, Digital Marketing, SEO, and Social Media Management
 * 🌱 **Currently Building:** A website with my resume and achievements via Google Sites
 * 💡 **Interests:** Social Media Management for my Fraternity, Lifting, LEGOs, Video Games
@@ -16,7 +16,7 @@ Third-year student of Marketing & Visual Communications at Baldwin Wallace Unive
 
 ### 📌 Featured Projects
 
-| Dino Run | Game emulating the chrome Dino Run | Tech Used |
+| Dino Run | Game emulating the 'Chrome Dino Run' | Tech Used |
 | --- | --- | --- |
 |  | WebApp built on PythonAnywhere using Gemini https://jdamato24.pythonanywhere.com | `[Python]` `[Flask]` |
 
